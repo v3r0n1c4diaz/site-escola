@@ -7,3 +7,11 @@ header {
 }
 .cabecalho-imagem{
     Width: 20%;
+}
+    .cabecalho{
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-itens: center;
+    padding: 24px 0;
