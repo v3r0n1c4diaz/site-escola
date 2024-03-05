@@ -15,3 +15,9 @@ header {
     justify-content: space-around;
     align-itens: center;
     padding: 24px 0;
+    }
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+ }
