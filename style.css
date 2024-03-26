@@ -29,7 +29,7 @@ body {
     color: white;
 }
 
-.escola-imagem{
+.loja-imagem{
     width: 25%;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 
-.escola-titulo{
+.loja-titulo{
     padding: 24px 0;
 }
 
@@ -70,7 +70,7 @@ body {
     padding: 16px 0;
 }
 
-.estudante-titulo{
+.morango-titulo{
     text-align: center;
     padding: 50px 0;
 }
